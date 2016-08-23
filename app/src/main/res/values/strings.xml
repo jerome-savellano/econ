@@ -27,7 +27,7 @@
         <item>Exit app</item>
     </string-array>
 
-    <string name="pollution">"Pollution is the process of making land, water, air or other parts of the environment dirty and unsafe or unsuitable to use. This can be done through the introduction of a contaminant into a natural environment, but the contaminant doesn't need to be tangible."</string>
+    <string name="pollution">"Pollution is the process of making land, water, air or other parts of the environment dirty and unsafe or unsuitable to use. This can be done through the introduction of a contaminant into a natural environment, but the contaminant does not need to be tangible."</string>
     <string name="global_warming">"Global Warming is the increase of Earth's average surface temperature due to effect of greenhouse gases, such as carbon dioxide emissions from burning fossil fuels or from deforestation, which trap heat that would otherwise escape from Earth. This is a type of greenhouse effect."</string>
     <string name="over_population">Overpopulation is an undesirable condition where the number of existing human population exceeds the carrying capacity of Earth. Overpopulation is caused by number of factors. Reduced mortality rate, better medical facilities, depletion of precious resources are few of the causes which results in overpopulation.</string>
     <string name="resource_depletion">Resource depletion is the consumption of a resource faster than it can be replenished. Natural resources are commonly divided between renewable resources and non-renewable resources. Use of either of these forms of resources beyond their fate of replacement is considered to be resource depletion.</string>
