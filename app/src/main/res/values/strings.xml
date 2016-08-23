@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Econ</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="pollution_a">Your family moved and your work place became much closer. You used to drive to work everyday. Now, the distance from your house to your work is reduced by half. Would you consider walking or riding a bike to work or still drive your car?</string>
+    <string name="pollution_a_benefit">Walking or biking as means of transportation has a lot of benefits. No fuel is involved, thereby the use of fossil fuel is reduced. 0% of emitting carbon dioxide, carbon monoxide, and nitrogen oxides that helps to reduce global warming. Reduces congestion in roads at peak times. Contributes to our health because it produces bodily exercise.</string>
+    <string name="pollution_a_disadvantage">One of the major causes of global warming is car pollution. They emit carbon dioxide and other greenhouse gases. Worldwide temperature rises because of greenhouse gases that traps the heat in the atmosphere. Also, car pollutants such as hydrocarbons, carbon monoxide, and many more causes harm to human health.  </string>
+
+    <string name="globalwarming_a">You and your partner just got married and are starting to plan for your house. The engineer introduced the use of solar energy to provide electricity for the project. Would you consider using solar energy or just go with the conventional energy resource?</string>
+    <string name="globalwarming_a_benefit">Solar power helps to slow/stop global warming. Solar power systems derive clean, pure energy from the sun. Installing solar panels on your home helps combat greenhouse gas emissions and reduces our collective dependence on fossil fuel. Also, solar power saves you money. Its biggest advantage when it comes to solar energy is that solar energy systems are powered by the sun, and of course, sunlight is free. </string>
+    <string name="globalwarming_a_disadvantage">Electricty is produced by fossil fuel power plants that burn carbon fuels such coal, oil or gas to generate steam that drives large turbines. However, climate change is caused by burning of carbon fuels that produces large amounts of carbon dioxide. They can also produce other pollutants, such as sulphurous oxides, which cause acid rain. </string>
+
+    <string name="resourcedepletion_a">A friend of yours asked you to help him clean their house. After hours of cleaning, you and your friend gathered 2 sacks of plastic bottles. The two of you started to discuss on what to do with the bottles. Your friend suggested to just throw them away and asked you what is your suggestion. What would you say?</string>
+    <string name="resourcedepletion_a_benefit">Recycling plastic water bottle helps to conserve natural resources, specifically oil, which is non-renewable natural resource available only in limited supply. The Environmental Protection Agency estimates that recycling a ton of plastic conserves approximately 3.8 barrels of crude oil. In 2008, 2.12 millions of plastic were recovered for recyclin, the equivalent of roughly 7.6 million barrels of oil.</string>
+    <string name="resourcedepletion_a_disadvantage">"Plastic bottles take up a large amount of space in landfills, contributing to the Earth's waste disposal problem. According to the Clean Air Council, residents of the United States alone throw away 2.5 million plastic bottles every hour. That's 60 million plastic bottles each day. Landfills are intended to serve the immediate area's disposal needs for an extended period of time."</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in lorem justo. Vivamus sit amet feugiat lorem. Suspendisse potenti. Vestibulum quis ipsum quam. Aenean et mauris at lorem hendrerit pretium id ac magna. Duis mattis justo et augue porta, imperdiet ullamcorper urna viverra. Proin eu arcu maximus, consectetur libero in, semper dolor. Vivamus tortor sapien, efficitur ut placerat nec, fermentum in turpis. Pellentesque efficitur, dolor nec pretium semper, sapien quam dignissim ipsum, a feugiat justo augue id turpis. Integer eu venenatis nisl, ut tristique neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec vulputate magna erat, ut venenatis magna viverra at. Mauris sit amet aliquet sapien, sed luctus ipsum. Phasellus non dictum massa.</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Browse videos</item>
+        <item>Learn</item>
+        <item>Exit app</item>
+    </string-array>
+
+    <string name="pollution">"Pollution is the process of making land, water, air or other parts of the environment dirty and unsafe or unsuitable to use. This can be done through the introduction of a contaminant into a natural environment, but the contaminant doesn't need to be tangible."</string>
+    <string name="global_warming">"Global Warming is the increase of Earth's average surface temperature due to effect of greenhouse gases, such as carbon dioxide emissions from burning fossil fuels or from deforestation, which trap heat that would otherwise escape from Earth. This is a type of greenhouse effect."</string>
+    <string name="over_population">Overpopulation is an undesirable condition where the number of existing human population exceeds the carrying capacity of Earth. Overpopulation is caused by number of factors. Reduced mortality rate, better medical facilities, depletion of precious resources are few of the causes which results in overpopulation.</string>
+    <string name="resource_depletion">Resource depletion is the consumption of a resource faster than it can be replenished. Natural resources are commonly divided between renewable resources and non-renewable resources. Use of either of these forms of resources beyond their fate of replacement is considered to be resource depletion.</string>
+
+</resources>
